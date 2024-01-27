@@ -1,0 +1,5 @@
+print("Hello, Programmers")
+print("                  ")
+print("Welcome to Structured programming")
+print("                    ")
+print("Nice time")

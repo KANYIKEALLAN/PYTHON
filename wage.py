@@ -14,3 +14,4 @@ print(f"\nWage:{wage}\n\nAllowance:{allowance}\n\nGross Wage:{wage}\n\nTax:{tax}
 
 
 
+
